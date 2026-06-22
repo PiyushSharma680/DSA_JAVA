@@ -25,6 +25,7 @@ Patttern_Wise_DSA
 | [0013-roman-to-integer](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -40,4 +41,9 @@ Patttern_Wise_DSA
 | [0125-valid-palindrome](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0392-is-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
