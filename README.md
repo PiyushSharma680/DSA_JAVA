@@ -15,6 +15,7 @@ Patttern_Wise_DSA
 | [0004-median-of-two-sorted-arrays](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0066-plus-one](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0217-contains-duplicate) |
 | [0643-maximum-average-subarray-i](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -22,6 +23,7 @@ Patttern_Wise_DSA
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
@@ -58,4 +60,8 @@ Patttern_Wise_DSA
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
