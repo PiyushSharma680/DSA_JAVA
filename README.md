@@ -21,6 +21,7 @@ Patttern_Wise_DSA
 | [0643-maximum-average-subarray-i](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@ Patttern_Wise_DSA
 | [0344-reverse-string](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0392-is-subsequence) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -74,4 +76,8 @@ Patttern_Wise_DSA
 | [0217-contains-duplicate](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0349-intersection-of-two-arrays) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
