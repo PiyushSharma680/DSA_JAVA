@@ -9,6 +9,7 @@ Patttern_Wise_DSA
 | [0009-palindrome-number](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0066-plus-one) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Array
 |  |
 | ------- |
@@ -55,6 +56,7 @@ Patttern_Wise_DSA
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0392-is-subsequence) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Sliding Window
 |  |
 | ------- |
