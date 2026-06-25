@@ -19,6 +19,7 @@ Patttern_Wise_DSA
 | [0128-longest-consecutive-sequence](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -33,6 +34,7 @@ Patttern_Wise_DSA
 | [0202-happy-number](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0349-intersection-of-two-arrays) |
@@ -77,6 +79,7 @@ Patttern_Wise_DSA
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
