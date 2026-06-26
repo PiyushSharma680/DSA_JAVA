@@ -15,6 +15,7 @@ Patttern_Wise_DSA
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0039-combination-sum](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0128-longest-consecutive-sequence) |
@@ -130,4 +131,8 @@ Patttern_Wise_DSA
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
