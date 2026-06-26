@@ -29,6 +29,7 @@ Patttern_Wise_DSA
 | [2215-find-the-difference-of-two-arrays](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@ Patttern_Wise_DSA
 | [2215-find-the-difference-of-two-arrays](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
 |  |
 | ------- |
@@ -69,6 +71,7 @@ Patttern_Wise_DSA
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0004-median-of-two-sorted-arrays) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -112,10 +115,12 @@ Patttern_Wise_DSA
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Counting
 |  |
 | ------- |
@@ -124,4 +129,5 @@ Patttern_Wise_DSA
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
