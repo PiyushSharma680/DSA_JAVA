@@ -38,6 +38,7 @@ Patttern_Wise_DSA
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0128-longest-consecutive-sequence) |
@@ -56,6 +57,7 @@ Patttern_Wise_DSA
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0125-valid-palindrome) |
@@ -96,6 +98,7 @@ Patttern_Wise_DSA
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0643-maximum-average-subarray-i) |
 | [1052-grumpy-bookstore-owner](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1052-grumpy-bookstore-owner) |
