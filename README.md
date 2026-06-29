@@ -19,6 +19,7 @@ Patttern_Wise_DSA
 | [0049-group-anagrams](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0128-longest-consecutive-sequence) |
+| [0164-maximum-gap](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0219-contains-duplicate-ii) |
@@ -112,6 +113,7 @@ Patttern_Wise_DSA
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0049-group-anagrams) |
+| [0164-maximum-gap](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0349-intersection-of-two-arrays) |
@@ -156,4 +158,12 @@ Patttern_Wise_DSA
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
