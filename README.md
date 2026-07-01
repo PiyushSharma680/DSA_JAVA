@@ -33,6 +33,7 @@ Patttern_Wise_DSA
 | [2149-rearrange-array-elements-by-sign](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -77,6 +78,7 @@ Patttern_Wise_DSA
 | [0004-median-of-two-sorted-arrays](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0349-intersection-of-two-arrays) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -127,6 +129,7 @@ Patttern_Wise_DSA
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0128-longest-consecutive-sequence) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Segment Tree
 |  |
 | ------- |
@@ -166,4 +169,16 @@ Patttern_Wise_DSA
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0164-maximum-gap) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
