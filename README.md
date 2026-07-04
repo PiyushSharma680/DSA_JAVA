@@ -15,6 +15,7 @@ Patttern_Wise_DSA
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0066-plus-one) |
@@ -70,6 +71,7 @@ Patttern_Wise_DSA
 | [0006-zigzag-conversion](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0125-valid-palindrome) |
@@ -229,4 +231,8 @@ Patttern_Wise_DSA
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0020-valid-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
