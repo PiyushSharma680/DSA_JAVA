@@ -70,6 +70,7 @@ Patttern_Wise_DSA
 | [0006-zigzag-conversion](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0205-isomorphic-strings) |
@@ -224,4 +225,8 @@ Patttern_Wise_DSA
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
