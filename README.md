@@ -27,6 +27,7 @@ Patttern_Wise_DSA
 | [0349-intersection-of-two-arrays](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0643-maximum-average-subarray-i) |
 | [1052-grumpy-bookstore-owner](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1052-grumpy-bookstore-owner) |
+| [1301-number-of-paths-with-max-score](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1301-number-of-paths-with-max-score) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -113,6 +114,7 @@ Patttern_Wise_DSA
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0392-is-subsequence) |
+| [1301-number-of-paths-with-max-score](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3620-network-recovery-pathways) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Sliding Window
@@ -206,6 +208,7 @@ Patttern_Wise_DSA
 ## Matrix
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
