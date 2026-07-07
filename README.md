@@ -73,6 +73,7 @@ Patttern_Wise_DSA
 | [0003-longest-substring-without-repeating-characters](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0020-valid-parentheses) |
@@ -115,6 +116,7 @@ Patttern_Wise_DSA
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0010-regular-expression-matching) |
 | [0392-is-subsequence](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0392-is-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3620-network-recovery-pathways) |
@@ -248,5 +250,6 @@ Patttern_Wise_DSA
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
