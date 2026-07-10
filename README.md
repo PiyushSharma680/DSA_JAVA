@@ -223,6 +223,7 @@ Patttern_Wise_DSA
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0101-symmetric-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -258,6 +259,7 @@ Patttern_Wise_DSA
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0101-symmetric-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Stack
 |  |
@@ -280,4 +282,12 @@ Patttern_Wise_DSA
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
