@@ -273,6 +273,7 @@ Patttern_Wise_DSA
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Recursion
 |  |
 | ------- |
