@@ -30,6 +30,7 @@ Patttern_Wise_DSA
 | [0219-contains-duplicate-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1052-grumpy-bookstore-owner) |
 | [1288-remove-covered-intervals](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1301-number-of-paths-with-max-score) |
@@ -107,6 +108,7 @@ Patttern_Wise_DSA
 | [0004-median-of-two-sorted-arrays](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0349-intersection-of-two-arrays) |
+| [1004-max-consecutive-ones-iii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -149,6 +151,7 @@ Patttern_Wise_DSA
 | [0438-find-all-anagrams-in-a-string](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -200,6 +203,7 @@ Patttern_Wise_DSA
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3739-count-subarrays-with-majority-element-ii) |
