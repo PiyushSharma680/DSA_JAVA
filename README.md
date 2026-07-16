@@ -15,6 +15,7 @@ Patttern_Wise_DSA
 | [3700-number-of-zigzag-arrays-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
 |  |
 | ------- |
@@ -56,6 +57,7 @@ Patttern_Wise_DSA
 | [3620-network-recovery-pathways](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3951-minimum-energy-to-maintain-brightness) |
 ## Hash Table
 |  |
@@ -133,6 +135,7 @@ Patttern_Wise_DSA
 | [0567-permutation-in-string](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0567-permutation-in-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -175,11 +178,13 @@ Patttern_Wise_DSA
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3951-minimum-energy-to-maintain-brightness) |
 ## Simulation
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Union-Find
 |  |
 | ------- |
@@ -308,4 +313,5 @@ Patttern_Wise_DSA
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
