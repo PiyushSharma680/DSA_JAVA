@@ -7,6 +7,7 @@ Patttern_Wise_DSA
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0202-happy-number) |
@@ -75,6 +76,7 @@ Patttern_Wise_DSA
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0128-longest-consecutive-sequence) |
@@ -107,6 +109,7 @@ Patttern_Wise_DSA
 | [0006-zigzag-conversion](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0020-valid-parentheses) |
