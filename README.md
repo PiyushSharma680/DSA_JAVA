@@ -17,6 +17,7 @@ Patttern_Wise_DSA
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -219,6 +220,7 @@ Patttern_Wise_DSA
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3951-minimum-energy-to-maintain-brightness) |
 ## Simulation
