@@ -84,6 +84,7 @@ Patttern_Wise_DSA
 | [0003-longest-substring-without-repeating-characters](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0013-roman-to-integer) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0128-longest-consecutive-sequence) |
@@ -120,6 +121,7 @@ Patttern_Wise_DSA
 | [0013-roman-to-integer](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0020-valid-parentheses) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0076-minimum-window-substring) |
@@ -189,6 +191,7 @@ Patttern_Wise_DSA
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0424-longest-repeating-character-replacement) |
