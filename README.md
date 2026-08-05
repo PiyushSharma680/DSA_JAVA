@@ -321,6 +321,7 @@ Patttern_Wise_DSA
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3310-remove-methods-from-project) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -339,6 +340,7 @@ Patttern_Wise_DSA
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3620-network-recovery-pathways) |
@@ -356,6 +358,7 @@ Patttern_Wise_DSA
 | ------- |
 | [0101-symmetric-tree](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0101-symmetric-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3310-remove-methods-from-project](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3310-remove-methods-from-project) |
 ## Stack
 |  |
 | ------- |
