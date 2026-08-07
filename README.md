@@ -54,6 +54,7 @@ Patttern_Wise_DSA
 | [0904-fruit-into-baskets](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1052-grumpy-bookstore-owner) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -111,6 +112,7 @@ Patttern_Wise_DSA
 | [0567-permutation-in-string](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -294,6 +296,7 @@ Patttern_Wise_DSA
 | [0525-contiguous-array](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0525-contiguous-array) |
 | [0713-subarray-product-less-than-k](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
