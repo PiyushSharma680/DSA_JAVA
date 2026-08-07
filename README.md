@@ -18,6 +18,7 @@ Patttern_Wise_DSA
 | [3312-sorted-gcd-pair-queries](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -150,6 +151,7 @@ Patttern_Wise_DSA
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -300,6 +302,7 @@ Patttern_Wise_DSA
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0039-combination-sum) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -315,6 +318,7 @@ Patttern_Wise_DSA
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bucket Sort
 |  |
@@ -408,6 +412,7 @@ Patttern_Wise_DSA
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
