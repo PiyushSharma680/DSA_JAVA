@@ -155,6 +155,7 @@ Patttern_Wise_DSA
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -196,6 +197,7 @@ Patttern_Wise_DSA
 | [0392-is-subsequence](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0567-permutation-in-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
@@ -208,6 +210,7 @@ Patttern_Wise_DSA
 | [0918-maximum-sum-circular-subarray](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1301-number-of-paths-with-max-score](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1301-number-of-paths-with-max-score) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3620-network-recovery-pathways) |
@@ -324,6 +327,7 @@ Patttern_Wise_DSA
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bucket Sort
