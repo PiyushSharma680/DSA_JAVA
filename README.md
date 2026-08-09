@@ -35,6 +35,7 @@ Patttern_Wise_DSA
 | [0004-median-of-two-sorted-arrays](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0053-maximum-subarray) |
@@ -190,6 +191,7 @@ Patttern_Wise_DSA
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -248,6 +250,7 @@ Patttern_Wise_DSA
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0164-maximum-gap) |
