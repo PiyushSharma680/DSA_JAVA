@@ -39,6 +39,7 @@ Patttern_Wise_DSA
 | [0039-combination-sum](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0128-longest-consecutive-sequence) |
@@ -271,6 +272,7 @@ Patttern_Wise_DSA
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Union-Find
@@ -363,6 +365,7 @@ Patttern_Wise_DSA
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0054-spiral-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3286-find-a-safe-walk-through-a-grid) |
