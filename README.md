@@ -42,6 +42,7 @@ Patttern_Wise_DSA
 | [0053-maximum-subarray](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0128-longest-consecutive-sequence) |
 | [0164-maximum-gap](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0164-maximum-gap) |
@@ -102,6 +103,7 @@ Patttern_Wise_DSA
 | [0013-roman-to-integer](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0202-happy-number) |
@@ -368,6 +370,7 @@ Patttern_Wise_DSA
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0073-set-matrix-zeroes) |
 | [1301-number-of-paths-with-max-score](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3286-find-a-safe-walk-through-a-grid) |
