@@ -51,6 +51,7 @@ Patttern_Wise_DSA
 | [0219-contains-duplicate-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0219-contains-duplicate-ii) |
 | [0303-range-sum-query-immutable](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0349-intersection-of-two-arrays) |
+| [0498-diagonal-traverse](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0498-diagonal-traverse) |
 | [0525-contiguous-array](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0525-contiguous-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0643-maximum-average-subarray-i) |
@@ -282,6 +283,7 @@ Patttern_Wise_DSA
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0498-diagonal-traverse) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Union-Find
@@ -377,6 +379,7 @@ Patttern_Wise_DSA
 | ------- |
 | [0054-spiral-matrix](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0073-set-matrix-zeroes) |
+| [0498-diagonal-traverse](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0498-diagonal-traverse) |
 | [1301-number-of-paths-with-max-score](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3286-find-a-safe-walk-through-a-grid) |
