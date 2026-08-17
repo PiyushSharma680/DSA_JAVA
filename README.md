@@ -16,6 +16,7 @@ Patttern_Wise_DSA
 | [1140-stone-game-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1510-stone-game-iv](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -76,6 +77,7 @@ Patttern_Wise_DSA
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1563-stone-game-v](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1563-stone-game-v) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -233,6 +235,7 @@ Patttern_Wise_DSA
 | [1301-number-of-paths-with-max-score](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1301-number-of-paths-with-max-score) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -478,6 +481,7 @@ Patttern_Wise_DSA
 | [0877-stone-game](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2029-stone-game-ix) |
 ## Queue
 |  |
