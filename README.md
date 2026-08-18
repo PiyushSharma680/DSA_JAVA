@@ -67,6 +67,7 @@ Patttern_Wise_DSA
 | [0930-binary-subarrays-with-sum](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1052-grumpy-bookstore-owner](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1052-grumpy-bookstore-owner) |
 | [1140-stone-game-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -194,6 +195,7 @@ Patttern_Wise_DSA
 | [0349-intersection-of-two-arrays](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0349-intersection-of-two-arrays) |
 | [0713-subarray-product-less-than-k](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3501-maximize-active-section-with-trade-ii) |
