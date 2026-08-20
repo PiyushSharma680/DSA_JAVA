@@ -93,6 +93,7 @@ Patttern_Wise_DSA
 | [2653-sliding-subarray-beauty](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2653-sliding-subarray-beauty) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -302,6 +303,7 @@ Patttern_Wise_DSA
 | [0054-spiral-matrix](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0498-diagonal-traverse) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Union-Find
 |  |
