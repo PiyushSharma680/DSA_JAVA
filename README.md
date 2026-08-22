@@ -50,6 +50,7 @@ Patttern_Wise_DSA
 | [0073-set-matrix-zeroes](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0128-longest-consecutive-sequence) |
+| [0162-find-peak-element](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0217-contains-duplicate) |
@@ -196,6 +197,7 @@ Patttern_Wise_DSA
 | [0033-search-in-rotated-sorted-array](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0410-split-array-largest-sum) |
