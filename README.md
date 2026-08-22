@@ -56,6 +56,7 @@ Patttern_Wise_DSA
 | [0219-contains-duplicate-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0219-contains-duplicate-ii) |
 | [0303-range-sum-query-immutable](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0349-intersection-of-two-arrays) |
+| [0410-split-array-largest-sum](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0410-split-array-largest-sum) |
 | [0498-diagonal-traverse](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0498-diagonal-traverse) |
 | [0525-contiguous-array](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0525-contiguous-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -197,6 +198,7 @@ Patttern_Wise_DSA
 | [0035-search-insert-position](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0349-intersection-of-two-arrays) |
+| [0410-split-array-largest-sum](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -238,6 +240,7 @@ Patttern_Wise_DSA
 | [0010-regular-expression-matching](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0410-split-array-largest-sum) |
 | [0877-stone-game](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1140-stone-game-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1140-stone-game-ii) |
@@ -338,6 +341,7 @@ Patttern_Wise_DSA
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0303-range-sum-query-immutable) |
+| [0410-split-array-largest-sum](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0525-contiguous-array) |
 | [0713-subarray-product-less-than-k](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0930-binary-subarrays-with-sum) |
@@ -367,6 +371,7 @@ Patttern_Wise_DSA
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0410-split-array-largest-sum) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1386-cinema-seat-allocation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
