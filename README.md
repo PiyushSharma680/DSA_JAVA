@@ -92,6 +92,7 @@ Patttern_Wise_DSA
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2029-stone-game-ix](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2029-stone-game-ix) |
 | [2090-k-radius-subarray-averages](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2090-k-radius-subarray-averages) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -397,6 +398,7 @@ Patttern_Wise_DSA
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3348-smallest-divisible-digit-product-ii) |
