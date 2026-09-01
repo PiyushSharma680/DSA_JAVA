@@ -10,6 +10,7 @@ Patttern_Wise_DSA
 | [0012-integer-to-roman](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0877-stone-game) |
@@ -210,6 +211,7 @@ Patttern_Wise_DSA
 | [0033-search-in-rotated-sorted-array](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -568,4 +570,8 @@ Patttern_Wise_DSA
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
