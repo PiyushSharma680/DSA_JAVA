@@ -12,6 +12,7 @@ Patttern_Wise_DSA
 | [0066-plus-one](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0202-happy-number) |
+| [0367-valid-perfect-square](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1140-stone-game-ii) |
@@ -216,6 +217,7 @@ Patttern_Wise_DSA
 | [0162-find-peak-element](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0713-subarray-product-less-than-k) |
