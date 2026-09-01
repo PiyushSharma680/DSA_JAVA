@@ -216,6 +216,7 @@ Patttern_Wise_DSA
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0278-first-bad-version](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0374-guess-number-higher-or-lower) |
@@ -580,5 +581,6 @@ Patttern_Wise_DSA
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
