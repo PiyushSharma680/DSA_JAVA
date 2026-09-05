@@ -51,6 +51,7 @@ Patttern_Wise_DSA
 | [0049-group-anagrams](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0074-search-a-2d-matrix) |
@@ -322,6 +323,7 @@ Patttern_Wise_DSA
 | ------- |
 | [0015-3sum](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0217-contains-duplicate) |
@@ -600,4 +602,8 @@ Patttern_Wise_DSA
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
