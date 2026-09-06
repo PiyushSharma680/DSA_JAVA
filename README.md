@@ -67,6 +67,7 @@ Patttern_Wise_DSA
 | [0303-range-sum-query-immutable](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0435-non-overlapping-intervals) |
 | [0498-diagonal-traverse](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0498-diagonal-traverse) |
 | [0525-contiguous-array](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -282,6 +283,7 @@ Patttern_Wise_DSA
 | [0115-distinct-subsequences](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0115-distinct-subsequences) |
 | [0392-is-subsequence](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0435-non-overlapping-intervals) |
 | [0877-stone-game](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1140-stone-game-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1140-stone-game-ii) |
@@ -333,6 +335,7 @@ Patttern_Wise_DSA
 | [0217-contains-duplicate](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0349-intersection-of-two-arrays) |
+| [0435-non-overlapping-intervals](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -420,6 +423,7 @@ Patttern_Wise_DSA
 | ------- |
 | [0011-container-with-most-water](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0435-non-overlapping-intervals) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1386-cinema-seat-allocation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
