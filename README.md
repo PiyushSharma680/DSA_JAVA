@@ -188,6 +188,7 @@ Patttern_Wise_DSA
 | [0049-group-anagrams](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0242-valid-anagram) |
@@ -277,6 +278,7 @@ Patttern_Wise_DSA
 | ------- |
 | [0010-regular-expression-matching](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0053-maximum-subarray) |
+| [0115-distinct-subsequences](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0115-distinct-subsequences) |
 | [0392-is-subsequence](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0410-split-array-largest-sum) |
 | [0877-stone-game](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0877-stone-game) |
