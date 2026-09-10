@@ -495,6 +495,7 @@ Patttern_Wise_DSA
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0101-symmetric-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3310-remove-methods-from-project) |
 ## Stack
@@ -529,10 +530,12 @@ Patttern_Wise_DSA
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0101-symmetric-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0101-symmetric-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Number Theory
 |  |
 | ------- |
