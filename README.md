@@ -71,6 +71,7 @@ Patttern_Wise_DSA
 | [0410-split-array-largest-sum](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0495-teemo-attacking](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0498-diagonal-traverse) |
 | [0525-contiguous-array](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -363,6 +364,7 @@ Patttern_Wise_DSA
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0054-spiral-matrix) |
+| [0495-teemo-attacking](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0498-diagonal-traverse) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3069-distribute-elements-into-two-arrays-i) |
