@@ -157,6 +157,7 @@ Patttern_Wise_DSA
 | [0438-find-all-anagrams-in-a-string](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0525-contiguous-array](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0763-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -203,6 +204,7 @@ Patttern_Wise_DSA
 | [0424-longest-repeating-character-replacement](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0763-partition-labels) |
 | [0940-distinct-subsequences-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -274,6 +276,7 @@ Patttern_Wise_DSA
 | [0349-intersection-of-two-arrays](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0763-partition-labels) |
 | [0986-interval-list-intersections](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0986-interval-list-intersections) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -432,6 +435,7 @@ Patttern_Wise_DSA
 | [0410-split-array-largest-sum](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0763-partition-labels](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0763-partition-labels) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1386-cinema-seat-allocation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
