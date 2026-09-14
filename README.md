@@ -532,12 +532,14 @@ Patttern_Wise_DSA
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0206-reverse-linked-list](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0206-reverse-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0206-reverse-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Bit Manipulation
 |  |
