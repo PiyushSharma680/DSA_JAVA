@@ -14,6 +14,7 @@ Patttern_Wise_DSA
 | [0202-happy-number](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -649,4 +650,8 @@ Patttern_Wise_DSA
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0646-maximum-length-of-pair-chain) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
