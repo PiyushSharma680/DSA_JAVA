@@ -101,6 +101,7 @@ Patttern_Wise_DSA
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1539-kth-missing-positive-number](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1539-kth-missing-positive-number) |
@@ -170,6 +171,7 @@ Patttern_Wise_DSA
 | [1248-count-number-of-nice-subarrays](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2653-sliding-subarray-beauty](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2653-sliding-subarray-beauty) |
@@ -255,6 +257,7 @@ Patttern_Wise_DSA
 | [0852-peak-index-in-a-mountain-array](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1539-kth-missing-positive-number) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -307,6 +310,7 @@ Patttern_Wise_DSA
 | [0940-distinct-subsequences-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1301-number-of-paths-with-max-score) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1563-stone-game-v) |
@@ -338,6 +342,7 @@ Patttern_Wise_DSA
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2090-k-radius-subarray-averages](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2090-k-radius-subarray-averages) |
