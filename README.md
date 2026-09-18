@@ -172,6 +172,7 @@ Patttern_Wise_DSA
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2653-sliding-subarray-beauty](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2653-sliding-subarray-beauty) |
@@ -218,6 +219,7 @@ Patttern_Wise_DSA
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -367,6 +369,7 @@ Patttern_Wise_DSA
 | [0646-maximum-length-of-pair-chain](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0646-maximum-length-of-pair-chain) |
 | [1288-remove-covered-intervals](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -460,6 +463,7 @@ Patttern_Wise_DSA
 | [0763-partition-labels](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0763-partition-labels) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2029-stone-game-ix) |
