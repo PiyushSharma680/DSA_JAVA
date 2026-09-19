@@ -18,6 +18,7 @@ Patttern_Wise_DSA
 | [0877-stone-game](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -673,4 +674,5 @@ Patttern_Wise_DSA
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
