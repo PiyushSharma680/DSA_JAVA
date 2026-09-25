@@ -176,6 +176,7 @@ Patttern_Wise_DSA
 | [0904-fruit-into-baskets](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1096-brace-expansion-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1096-brace-expansion-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1386-cinema-seat-allocation) |
@@ -226,6 +227,7 @@ Patttern_Wise_DSA
 | [0763-partition-labels](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0763-partition-labels) |
 | [0940-distinct-subsequences-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1096-brace-expansion-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -380,6 +382,7 @@ Patttern_Wise_DSA
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0646-maximum-length-of-pair-chain) |
+| [1096-brace-expansion-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -456,6 +459,7 @@ Patttern_Wise_DSA
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0039-combination-sum) |
+| [1096-brace-expansion-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Enumeration
 |  |
@@ -502,6 +506,7 @@ Patttern_Wise_DSA
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0101-symmetric-tree) |
+| [1096-brace-expansion-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -555,6 +560,7 @@ Patttern_Wise_DSA
 | ------- |
 | [0020-valid-parentheses](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0020-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1096-brace-expansion-ii) |
 ## Trie
 |  |
 | ------- |
