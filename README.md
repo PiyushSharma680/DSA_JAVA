@@ -213,6 +213,7 @@ Patttern_Wise_DSA
 | [0013-roman-to-integer](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0058-length-of-last-word) |
@@ -321,6 +322,7 @@ Patttern_Wise_DSA
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0115-distinct-subsequences) |
 | [0392-is-subsequence](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0392-is-subsequence) |
@@ -466,6 +468,7 @@ Patttern_Wise_DSA
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0039-combination-sum) |
 | [1096-brace-expansion-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -712,6 +715,7 @@ Patttern_Wise_DSA
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
