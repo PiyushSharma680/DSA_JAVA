@@ -215,6 +215,7 @@ Patttern_Wise_DSA
 | [0020-valid-parentheses](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0076-minimum-window-substring) |
@@ -323,6 +324,7 @@ Patttern_Wise_DSA
 | ------- |
 | [0010-regular-expression-matching](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0115-distinct-subsequences) |
 | [0392-is-subsequence](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0392-is-subsequence) |
@@ -571,6 +573,7 @@ Patttern_Wise_DSA
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0032-longest-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -716,6 +719,7 @@ Patttern_Wise_DSA
 | ------- |
 | [0020-valid-parentheses](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PiyushSharma680/DSA_JAVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
